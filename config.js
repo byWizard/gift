@@ -15,5 +15,5 @@ window.HotelkiConfig = {
   adminUids: ["FyxKq4qo0RcIK9GbcDcC4i7kffv2"],
 
   allowGuests: true,
-  showExample: true
+  showExample: false
 };
